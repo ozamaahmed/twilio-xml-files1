@@ -1,0 +1,7 @@
+<Response>
+<Say voice="woman">Thanks for trying our documentation. Enjoy!</Say>
+<Say voice="man">hello how are you!</Say>
+
+
+<!-- <Play>http://demo.twilio.com/docs/classic.mp3</Play> -->
+</Response>
